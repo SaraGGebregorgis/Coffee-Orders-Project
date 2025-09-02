@@ -17,5 +17,5 @@ It includes data cleaning, formula usage, and a dashboard with charts for easy i
 - Monthly sales trends
 - Customer purchase patterns
 - Revenue breakdown by product
-[coffeeOrdersProject.xlsx](https://github.com/user-attachments/files/22062040/coffeeOrdersProject.xlsx)
-[coffeeOrdersData.xlsx](https://github.com/user-attachments/files/22062043/coffeeOrdersData.xlsx)
+<img width="586" height="374" alt="image" src="https://github.com/user-attachments/assets/bf944ba5-1ce5-4698-9eef-4c8a35783b00" />
+
